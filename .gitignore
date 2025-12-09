@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# Plots / Visualizations
+plots/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
